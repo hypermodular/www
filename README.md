@@ -67,13 +67,15 @@ By assembling full SSP stations from a large amount of identical elements, produ
 
 + [New Developments in Space Solar Power, John C. Mankins, Mankins Space Technology, Inc.](https://space.nss.org/wp-content/uploads/NSS-JOURNAL-New-Developments-in-Space-Solar-Power.pdf)
 
-![obraz](https://github.com/hypermodular/www/assets/5669657/21671ba7-e3c5-4f53-b5db-7041ca413e79)
+![New Developments in Space Solar Power](https://github.com/hypermodular/www/assets/5669657/21671ba7-e3c5-4f53-b5db-7041ca413e79)
 
 + Use of a truly hyper-modular architecture, with more than 1,000,000 small modules to create a single enormous solar power satellite platform through GEO-based assembly – reducing the size of the average module significantly 
 + Addition of further details in the platform concept – involving the elaboration of the design to incorporate an additional 8-10 types of modular systems
 
 
 ### Modular edge computing
+
+![Modular edge computing](https://github.com/hypermodular/www/assets/5669657/4c8e988c-1e16-4c30-8af7-d130f7b00b9d)
 
 By combining that 3 layers: **hardware**, software with network of **services** and **data**, can be achieved modular edge computing:
 + modular **hardware** [Modular Edge Computing Hardware - Militarity](https://www.militarity.com/)

@@ -65,6 +65,12 @@ from cosmic ideas to management ...
 Hypermodularity is an attractive principle for space solar power architecture, as e.g. recently used in Ref. [5].
 By assembling full SSP stations from a large amount of identical elements, production cost are significantly de-creased and reliability of the system is increased due to fewer single points of failure
 
++ [New Developments in Space Solar Power, John C. Mankins, Mankins Space Technology, Inc.](https://space.nss.org/wp-content/uploads/NSS-JOURNAL-New-Developments-in-Space-Solar-Power.pdf)
+
+![obraz](https://github.com/hypermodular/www/assets/5669657/21671ba7-e3c5-4f53-b5db-7041ca413e79)
+
++ Use of a truly hyper-modular architecture, with more than 1,000,000 small modules to create a single enormous solar power satellite platform through GEO-based assembly – reducing the size of the average module significantly 
++ Addition of further details in the platform concept – involving the elaboration of the design to incorporate an additional 8-10 types of modular systems
 
 
 ### Modular edge computing

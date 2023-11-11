@@ -93,7 +93,7 @@ Streaming application/interface directly on frontend, without building backend s
 WebStream is a rapid prototyping, playing and learning environment for web development. 
 Extends the JavaScripts language with Stream Thinking and libraries for building asyncron, decentralized, modular applications. Web Stream a continuous improving by a flowing stream;
 
-### Modular schema definition for Digital Twin definition
+### Modular schema for Digital Twin definition
 
 + [metamodule.org](https://docs.metamodule.org/) is a specification of metamodules, for defition of any: process, service, software, role in a team….
 
